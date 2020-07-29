@@ -8,14 +8,14 @@ This repository contains a collection of materials for learning Python 3 (3.5+).
 
 #### Requirements
 * Have Python 3.5 or newer installed. You can check the version by typing `python3 --version` in your command line. You can download the latest Python version from [here](https://www.python.org/downloads/).
-* Have [Jupyter Notebook installed](http://jupyter.readthedocs.io/en/latest/install.html).
+* Have [Jupyter Lab installed](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html).
 
 If you can not access Python and/or Jupyter Notebook on your machine, you can still follow the web based materials. However, you should be able to use Jupyter Notebook in order to complete the exercises.
 
 #### Usage
 
 1. Clone or download this repository.
-2. Run `jupyter notebook` or `jupyter lab` command in your command line in the repository directory if using locally, use Google Colab if you prefer working online.
+2. Run `jupyter lab` from the command line or from Anaconda navigator if using locally, use Google Colab if you prefer working online.
 3. Jupyter session will open in the browser and you can start navigating through the materials.
 
 
