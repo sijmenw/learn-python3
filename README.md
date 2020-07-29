@@ -4,22 +4,27 @@
 
 ## Introduction
 
-This repository contains a collection of materials for learning Python 3 (3.5+).
+This repository contains a collection of materials for learning Python 3 (3.5+) and is a pre-requisite for the [Isatis Business Solutions Summer School: Python for Data Science](https://github.com/sijmenw/IBS-python-for-data-science).
 
-#### Requirements
-* Have Python 3.5 or newer installed. You can check the version by typing `python3 --version` in your command line. You can download the latest Python version from [here](https://www.python.org/downloads/).
-* Have [Jupyter Lab installed](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html).
+## Installation
 
-If you can not access Python and/or Jupyter Notebook on your machine, you can still follow the web based materials. However, you should be able to use Jupyter Notebook in order to complete the exercises.
+For beginners we recommend to use both:
 
-#### Usage
+- [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/)
+- [Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
 
-1. Clone or download this repository.
-2. Run `jupyter lab` from the command line or from Anaconda navigator if using locally, use Google Colab if you prefer working online.
-3. Jupyter session will open in the browser and you can start navigating through the materials.
+Follow the steps for Anaconda Navigator under [installation](https://docs.anaconda.com/anaconda/navigator/install/). You can then install JupyterLab using the Anaconda navigator UI.
 
+If you're running into trouble, let us know in the Slack channel!
+
+If you're familiar with the command line, feel free to use `conda`:
+
+- [Conda Commands](https://docs.conda.io/projects/conda/en/latest/commands.html)
 
 ## Prerequisites
+
+Make sure to work through each of the following notebooks and exercises. To open and edit the notebooks, load them into JupyterLab.
+
 1. Strings [[notebook]](http://nbviewer.jupyter.org/github/sijmenw/learn-python3/blob/master/notebooks/beginner/notebooks/strings.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/sijmenw/learn-python3/blob/master/notebooks/beginner/exercises/strings_exercise.ipynb)
 1. Numbers [[notebook]](http://nbviewer.jupyter.org/github/sijmenw/learn-python3/blob/master/notebooks/beginner/notebooks/numbers.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/sijmenw/learn-python3/blob/master/notebooks/beginner/exercises/numbers_exercise.ipynb)
 1. Conditionals [[notebook]](http://nbviewer.jupyter.org/github/sijmenw/learn-python3/blob/master/notebooks/beginner/notebooks/conditionals.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/sijmenw/learn-python3/blob/master/notebooks/beginner/exercises/conditionals_exercise.ipynb)
